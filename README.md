@@ -40,7 +40,7 @@ Make sure you have **Node.js** and **npm** installed. You can download them [her
 
    ```bash
    git clonehttps://github.com/mokshanirugutti/webBasedWallet.git
-   cd wallet-generator-app
+   cd webBasedWallet
    ```
 
 2. **Install dependencies:**
