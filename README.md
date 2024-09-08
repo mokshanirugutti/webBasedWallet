@@ -39,7 +39,7 @@ Make sure you have **Node.js** and **npm** installed. You can download them [her
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/wallet-generator-app.git
+   git clonehttps://github.com/mokshanirugutti/webBasedWallet.git
    cd wallet-generator-app
    ```
 
